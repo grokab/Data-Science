@@ -8,3 +8,4 @@ Data Analyst in bay area, Analytics is exciting to me as it is the refinery to 2
 • Experienced in building dashboards
 • Mechanical engineering background
 • Understanding of data pipeline and familiarity with Machine Learning fundamentals
+• First Principles Approach
