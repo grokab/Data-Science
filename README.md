@@ -11,3 +11,8 @@ Data Analyst in bay area, Analytics is exciting to me as it is the refinery to 2
 • First Principles Approach
 
 https://github.com/grokab/Data-Science.git
+
+Extracted csv data from X account
+Loaded, cleaned and transformed data
+Analyzed and visualized the data using Power Query
+Create recommendations based on the analysis
