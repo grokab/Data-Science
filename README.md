@@ -16,3 +16,8 @@ Extracted csv data from X account
 Loaded, cleaned and transformed data
 Analyzed and visualized the data using Power Query
 Create recommendations based on the analysis
+
+![Comparison of Impressions](https://github.com/grokab/Data-Science/assets/162400457/6ddfdee3-6d39-4973-b9c7-6a6b0d815701)
+![Current_Content_Straetegy](https://github.com/grokab/Data-Science/assets/162400457/320a09bc-ac30-4000-9ca9-923da4f15bed)
+![Engagement](https://github.com/grokab/Data-Science/assets/162400457/cad98301-7a68-4b2e-901c-ceb6574801a6)
+![Impressions](https://github.com/grokab/Data-Science/assets/162400457/31515ff5-52d9-4a40-9bd2-69617d4059c2)
