@@ -71,4 +71,4 @@ When it comes to getting people to click on our profiles and expand details, thr
 
 ## Results/Findings
 
-Moving forward, it's evident that thread posts are the driving force behind engagement and community growth, showcasing nearly double the engagement rates compared to single posts. Furthermore, they've demonstrated a remarkable ability to amplify reach, securing 54% more impressions and fostering an increase in clicks. Given these insights, **the immediate focus should be on enhancing our thread content strategy,** ensuring it remains robust and resonant with the audience's preferences.
+Moving forward, it's evident that thread posts are the driving force behind engagement and community growth, showcasing nearly double the engagement rates compared to single posts. Furthermore, they've demonstrated a remarkable ability to amplify reach, securing 54% more impressions and fostering an increase in clicks. Given these insights, **the immediate focus should be on enhancing the threads content strategy,** ensuring it remains robust and resonant with the audience's preferences.
