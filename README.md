@@ -9,3 +9,5 @@ Data Analyst in bay area, Analytics is exciting to me as it is the refinery to 2
 • Mechanical engineering background
 • Understanding of data pipeline and familiarity with Machine Learning fundamentals
 • First Principles Approach
+
+https://github.com/grokab/Data-Science.git
